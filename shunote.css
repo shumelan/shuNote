@@ -1,0 +1,86 @@
+.shunote{
+  font-family:'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+  margin:10px 10px 10px 10px;
+  padding:;
+  }
+.shunote .head{
+  width:;
+  height: 150px;
+  text-align:;
+  margin:0px 20px 0px 20px;
+  }
+.shunote .head .title#title{
+  text-align:center;
+  vertical-align:middle;
+  font-size:;
+  }
+.shunote .head #sign{
+  text-align:right;
+  font-size:;
+  }
+.shunote .head .nav ol li{
+  margin-right:20px;
+  display: inline-block;
+  }
+.shunote .head .nav ol li a{
+  color:#009966;
+  text-decoration: none;
+  }
+.shunote .body .chapter{
+  height:;
+  width:;
+  }
+.shunote .body .chapter .subtitle{
+  text-align:;
+  }
+.shunote .body .chapter .main{
+  margin:;
+  padding:;
+  /**width:800px;**/
+  -moz-columns: 200px auto;
+  -webkit-columns: 200px auto;
+  -o-columns: 200px auto;
+  -ms-columns: 200px auto;
+  -webkit-column-count: 2;
+  width:;
+  /**height:1300px;**/
+  }
+.shunote .body .chapter .main .section .caption{
+  text-align:center;
+  font-family:'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+  vertical-align:center;
+  }
+.shunote .body .chapter .main .section .text{
+  text-align:justify;
+  font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+  text-indent:ex;
+  }
+.shunote .body .chapter .main .section .text .fig{
+  text-align: center;
+  float: center;
+  }
+.shunote .body .chapter .main .section .text .fig img{
+  width:;
+  text-align:;
+  }
+.shunote .body .chapter .margin{
+  font-family:'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+  font-size:;
+  float:;
+  width:;
+  }
+.shunote .body .chapter .margin .left{
+  }
+.shunote .body .chapter .margin .right{}
+.shunote .foot{
+  margin:0px, 150px, 0px, 150px;
+  width:1000px;
+  text-align:center;
+  }
+.shunote .foot h5{
+  border-top:solid 5px #009966;
+  text-align:center;
+  font-family:'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+  font-size:18px;
+  color:#C0C0C0;
+  }
